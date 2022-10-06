@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="offset_small">8dp</dimen>
+    <dimen name="offset_default">16dp</dimen>
+    <dimen name="offset_large">48dp</dimen>
+    <dimen name="offset_extra_large">64dp</dimen>
+
+    <dimen name="photo_height">540dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+
+    <dimen name="font_size_default">16sp</dimen>
+    <dimen name="font_size_large">18sp</dimen>
+
+</resources>
